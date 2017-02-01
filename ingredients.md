@@ -1,0 +1,4 @@
+* avocado
+* lime
+* garlic
+* salt
