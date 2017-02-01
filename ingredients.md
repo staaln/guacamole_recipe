@@ -2,3 +2,4 @@
 * lime
 * garlic
 * salt
+* garlic
