@@ -2,3 +2,4 @@
 * lime
 * garlic
 * salt
+* tomatoes
