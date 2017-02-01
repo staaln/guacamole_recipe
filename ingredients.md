@@ -1,5 +1,5 @@
 * avocado
 * lime
-* garlic
 * salt
+* garlic
 * tomatoes
